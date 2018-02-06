@@ -64,7 +64,7 @@ namespace Animals
 //Notice, all the other classes "Inherit" the main Animal class
 
     #region Animal
-    class Animal
+    abstract class Animal
     {
         public string name { get; set; }
         public string color { get; set; }
