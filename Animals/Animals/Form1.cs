@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -24,7 +24,6 @@ namespace Animals
 
             if (radDog.Checked == true)
             {
-                //Notice how it first says "Animal" then says "new Dog" this is important, essentially says that I want to create a dog, which inherits all the properties of Animal
                 Animal doggo1 = new Dog();
 
                 doggo1.name = Interaction.InputBox("Enter your dog's name");
@@ -59,10 +58,6 @@ namespace Animals
         }
     }
 
-//CTORRs
-//Notice, that #region is used. It allows for easier organization of the code
-//Notice, all the other classes "Inherit" the main Animal class
-
     #region Animal
     abstract class Animal
     {
@@ -70,7 +65,6 @@ namespace Animals
         public string color { get; set; }
         public double weight { get; set; }
 
-        //Sets default data
         public Animal(string name = "Animal", string color = "Color", double weight = 0)
         {
             this.name = name;
@@ -78,27 +72,27 @@ namespace Animals
             this.weight = weight;
         }
 
-        //This allows for an easier way of printing the attributes of the object
         public override string ToString()
         {
             return String.Format("\n\nName: {0} \nColor: {1}, \nWeight: {2}", name, color, weight);
         }
 
-        //MUST BE AN ABSTRACT VOID - Abstract voids say that "All child classes must implement a method called Noise"
-        public abstract void Noise() 
+        public abstract void Noise();
     }
     #endregion
 
     #region Dog : Animal
-    //Notice how it goes Dog : Animal. This means that Dog inherits all the information that Animal has, hence why it has no get/set
-    //Programmers are lazy, this is the way that programmers prevent themselves from having to repeat the same "Get, Set" and methods for similar objects
     class Dog : Animal
     {
-        //MUST BE AN OVERRIDE VOID - Override voids say "This is the new functionality, use it"
-        //Allows for every animal to make a different noise, as this method overrides the virtual void on line 86
+        public Dog(string name = "Borb", string color = "Green", double weight = 0)
+        {
+            this.name = name;
+            this.color = color;
+            this.weight = weight;
+        }
+
         public override void Noise()
         {
-            //A folder was added to the debug folder with all the .wav files to allow for only having to do "res/DogBark.wav" instead of a full file path
             SoundPlayer bark = new SoundPlayer(@"res/DogBark.wav");
             bark.Play();
         }
@@ -108,6 +102,13 @@ namespace Animals
     #region Cat : Animal
     class Cat : Animal
     {
+        public Cat(string name = "Borb", string color = "Green", double weight = 0)
+        {
+            this.name = name;
+            this.color = color;
+            this.weight = weight;
+        }
+
         public override void Noise()
         {
             SoundPlayer meow = new SoundPlayer(@"res/CatMeow.wav");
@@ -119,6 +120,13 @@ namespace Animals
     #region Bird : Animal
     class Bird : Animal
     {
+        public Bird(string name = "Borb", string color = "Green", double weight = 0)
+        {
+            this.name = name;
+            this.color = color;
+            this.weight = weight;
+        }
+
         public override void Noise()
         {
             SoundPlayer tweet = new SoundPlayer(@"res/Borb.wav");
