@@ -24,12 +24,14 @@ namespace Animals
 
             if (radDog.Checked == true)
             {
+                //You say "Animal" then "new Dog" because you are saying that you are creating a new dog object that inherits the properties of Animal
                 Animal doggo1 = new Dog();
 
                 doggo1.name = Interaction.InputBox("Enter your dog's name");
                 doggo1.color = Interaction.InputBox("Enter your dog's color");
                 doggo1.weight = Convert.ToDouble(Interaction.InputBox("Enter your dog's weight"));
-
+                
+                //I overloaded the ".ToString()" function to make output of data cleaner
                 lblOutput.Text += doggo1.ToString();
                 doggo1.Noise();
             }
@@ -58,7 +60,11 @@ namespace Animals
         }
     }
 
+    //Start of objects
+    //I used "#region" to make the code easier to read, it creates named collapsable areas
+
     #region Animal
+    //MUST BE ABSTRACT - There is an abstract method inside of here, so the method needs to be abstract
     abstract class Animal
     {
         public string name { get; set; }
@@ -77,11 +83,13 @@ namespace Animals
             return String.Format("\n\nName: {0} \nColor: {1}, \nWeight: {2}", name, color, weight);
         }
 
+        //MUST BE ABSTRACT - Essentially says that all child classes require a method called "Noise"
         public abstract void Noise();
     }
     #endregion
 
     #region Dog : Animal
+    //Must have the ":" to signify that the object inherits all properties of Animal
     class Dog : Animal
     {
         public Dog(string name = "Borb", string color = "Green", double weight = 0)
@@ -91,6 +99,7 @@ namespace Animals
             this.weight = weight;
         }
 
+        //MUST BE OVERRIDE - Essentially says that this is the new functionality of the Noise() function
         public override void Noise()
         {
             SoundPlayer bark = new SoundPlayer(@"res/DogBark.wav");
