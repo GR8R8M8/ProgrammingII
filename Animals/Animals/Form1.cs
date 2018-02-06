@@ -84,11 +84,8 @@ namespace Animals
             return String.Format("\n\nName: {0} \nColor: {1}, \nWeight: {2}", name, color, weight);
         }
 
-        //MUST BE A VIRTUAL VOID - Virtual voids essentially say "I'm here but I can be overwritten"
-        public virtual void Noise() 
-        {
-            return;
-        }
+        //MUST BE AN ABSTRACT VOID - Abstract voids say that "All child classes must implement a method called Noise"
+        public abstract void Noise() 
     }
     #endregion
 
