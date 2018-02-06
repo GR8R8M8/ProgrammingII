@@ -1,0 +1,36 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\Animals\bin\Debug\Animals.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\Animals\bin\Debug\Animals.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\Animals\bin\Debug\Animals.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Animals\obj\Debug\Animals.Form1.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\Animals\obj\Debug\Animals.Properties.Resources.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\Animals\obj\Debug\Animals.csproj.GenerateResource.Cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Animals\obj\Debug\Animals.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\Animals\obj\Debug\Animals.pdb
+C:\Users\nickb\Desktop\Programming II\Animals\Animals\bin\Debug\Animals.exe.config
+C:\Users\nickb\Desktop\Programming II\Animals\Animals\bin\Debug\Animals.exe
+C:\Users\nickb\Desktop\Programming II\Animals\Animals\bin\Debug\Animals.pdb
+C:\Users\nickb\Desktop\Programming II\Animals\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+C:\Users\nickb\Desktop\Programming II\Animals\Animals\obj\Debug\Animals.Form1.resources
+C:\Users\nickb\Desktop\Programming II\Animals\Animals\obj\Debug\Animals.Properties.Resources.resources
+C:\Users\nickb\Desktop\Programming II\Animals\Animals\obj\Debug\Animals.csproj.GenerateResource.Cache
+C:\Users\nickb\Desktop\Programming II\Animals\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+C:\Users\nickb\Desktop\Programming II\Animals\Animals\obj\Debug\Animals.exe
+C:\Users\nickb\Desktop\Programming II\Animals\Animals\obj\Debug\Animals.pdb
+C:\Users\nickb\Desktop\Programming II\Animals\Animals\bin\Debug\res\Borb.wav
+C:\Users\nickb\Desktop\Programming II\Animals\Animals\bin\Debug\res\CatMeow.wav
+C:\Users\nickb\Desktop\Programming II\Animals\Animals\bin\Debug\res\DogBark.wav
+E:\Animals\Animals\bin\Debug\res\Borb.wav
+E:\Animals\Animals\bin\Debug\res\CatMeow.wav
+E:\Animals\Animals\bin\Debug\res\DogBark.wav
+E:\Animals\Animals\bin\Debug\Animals.exe.config
+E:\Animals\Animals\bin\Debug\Animals.exe
+E:\Animals\Animals\bin\Debug\Animals.pdb
+E:\Animals\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+E:\Animals\Animals\obj\Debug\Animals.Form1.resources
+E:\Animals\Animals\obj\Debug\Animals.Properties.Resources.resources
+E:\Animals\Animals\obj\Debug\Animals.csproj.GenerateResource.Cache
+E:\Animals\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+E:\Animals\Animals\obj\Debug\Animals.exe
+E:\Animals\Animals\obj\Debug\Animals.pdb
