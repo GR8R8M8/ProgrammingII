@@ -101,6 +101,7 @@ namespace Animals
         //Allows for every animal to make a different noise, as this method overrides the virtual void on line 86
         public override void Noise()
         {
+            //A folder was added to the debug folder with all the .wav files to allow for only having to do "res/DogBark.wav" instead of a full file path
             SoundPlayer bark = new SoundPlayer(@"res/DogBark.wav");
             bark.Play();
         }
