@@ -31,7 +31,7 @@ namespace Animals
                 doggo1.color = Interaction.InputBox("Enter your dog's color");
                 doggo1.weight = Convert.ToDouble(Interaction.InputBox("Enter your dog's weight"));
 
-                lblOutput.Text = doggo1.ToString();
+                lblOutput.Text += doggo1.ToString();
                 doggo1.Noise();
             }
             else if (radCat.Checked == true)
@@ -42,7 +42,7 @@ namespace Animals
                 cato1.color = Interaction.InputBox("Enter your cat's color");
                 cato1.weight = Convert.ToDouble(Interaction.InputBox("Enter your cat's weight"));
 
-                lblOutput.Text = cato1.ToString();
+                lblOutput.Text += cato1.ToString();
                 cato1.Noise();
             }
             else if (radBird.Checked == true)
@@ -53,7 +53,7 @@ namespace Animals
                 birb1.color = Interaction.InputBox("Enter your bird's color");
                 birb1.weight = Convert.ToDouble(Interaction.InputBox("Enter your bird's weight"));
 
-                lblOutput.Text = birb1.ToString();
+                lblOutput.Text += birb1.ToString();
                 birb1.Noise();
             }
         }
