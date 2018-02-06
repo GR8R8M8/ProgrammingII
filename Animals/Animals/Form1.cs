@@ -24,6 +24,7 @@ namespace Animals
 
             if (radDog.Checked == true)
             {
+                //Notice how it first says "Animal" then says "new Dog" this is important, essentially says that I want to create a dog, which inherits all the properties of Animal
                 Animal doggo1 = new Dog();
 
                 doggo1.name = Interaction.InputBox("Enter your dog's name");
@@ -58,6 +59,10 @@ namespace Animals
         }
     }
 
+//CTORRs
+//Notice, that #region is used. It allows for easier organization of the code
+//Notice, all the other classes "Inherit" the main Animal class
+
     #region Animal
     class Animal
     {
@@ -65,6 +70,7 @@ namespace Animals
         public string color { get; set; }
         public double weight { get; set; }
 
+        //Sets default data
         public Animal(string name = "Animal", string color = "Color", double weight = 0)
         {
             this.name = name;
@@ -72,12 +78,14 @@ namespace Animals
             this.weight = weight;
         }
 
+        //This allows for an easier way of printing the attributes of the object
         public override string ToString()
         {
             return String.Format("\n\nName: {0} \nColor: {1}, \nWeight: {2}", name, color, weight);
         }
 
-        public virtual void Noise()
+        //MUST BE A VIRTUAL VOID - Virtual voids essentially say "I'm here but I can be overwritten
+        public virtual void Noise() 
         {
             return;
         }
@@ -85,8 +93,12 @@ namespace Animals
     #endregion
 
     #region Dog : Animal
+    //Notice how it goes Dog : Animal. This means that Dog inherits all the information that Animal has, hence why it has no get/set
+    //Programmers are lazy, this is the way that programmers prevent themselves from having to repeat the same "Get, Set" and methods for similar objects
     class Dog : Animal
     {
+        //MUST BE AN OVERRIDE VOID - Override voids say "This is the new functionality, use it"
+        //Allows for every animal to make a different noise, as this method overrides the virtual void on line 86
         public override void Noise()
         {
             SoundPlayer bark = new SoundPlayer(@"res/DogBark.wav");
