@@ -58,32 +58,6 @@ namespace Animals
         }
     }
 
-    #region Animal
-    class Animal
-    {
-        public string name { get; set; }
-        public string color { get; set; }
-        public double weight { get; set; }
-
-        public Animal(string name = "Animal", string color = "Color", double weight = 0)
-        {
-            this.name = name;
-            this.color = color;
-            this.weight = weight;
-        }
-
-        public override string ToString()
-        {
-            return String.Format("\n\nName: {0} \nColor: {1}, \nWeight: {2}", name, color, weight);
-        }
-
-        public virtual void Noise()
-        {
-            return;
-        }
-    }
-    #endregion
-
     #region Dog
     class Dog
     {
