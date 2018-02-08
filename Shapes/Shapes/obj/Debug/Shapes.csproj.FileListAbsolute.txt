@@ -1,0 +1,10 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\Shapes\bin\Debug\Shapes.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\Shapes\bin\Debug\Shapes.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Shapes\obj\Debug\Shapes.Form1.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\Shapes\obj\Debug\Shapes.csproj.GenerateResource.Cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Shapes\obj\Debug\Shapes.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\Shapes\obj\Debug\Shapes.pdb
