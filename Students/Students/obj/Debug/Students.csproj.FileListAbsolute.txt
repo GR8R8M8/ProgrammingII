@@ -1,0 +1,10 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\Students\bin\Debug\Students.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\Students\bin\Debug\Students.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\Students\bin\Debug\Students.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Students\obj\Debug\Students.frmStudents.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\Students\obj\Debug\Students.Properties.Resources.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\Students\obj\Debug\Students.csproj.GenerateResource.Cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Students\obj\Debug\Students.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\Students\obj\Debug\Students.pdb
