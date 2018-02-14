@@ -1,0 +1,14 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\RandomAnimals\obj\Debug\RandomAnimals.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\RandomAnimals\obj\Debug\RandomAnimals.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\RandomAnimals\bin\Debug\RandomAnimals.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\RandomAnimals\bin\Debug\RandomAnimals.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\RandomAnimals\bin\Debug\RandomAnimals.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\RandomAnimals\obj\Debug\RandomAnimals.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\RandomAnimals\obj\Debug\RandomAnimals.pdb
+C:\Users\nickb\Desktop\Programming II\RandomAnimals\RandomAnimals\RandomAnimals\bin\Debug\RandomAnimals.exe.config
+C:\Users\nickb\Desktop\Programming II\RandomAnimals\RandomAnimals\RandomAnimals\bin\Debug\RandomAnimals.exe
+C:\Users\nickb\Desktop\Programming II\RandomAnimals\RandomAnimals\RandomAnimals\bin\Debug\RandomAnimals.pdb
+C:\Users\nickb\Desktop\Programming II\RandomAnimals\RandomAnimals\RandomAnimals\obj\Debug\RandomAnimals.csprojResolveAssemblyReference.cache
+C:\Users\nickb\Desktop\Programming II\RandomAnimals\RandomAnimals\RandomAnimals\obj\Debug\RandomAnimals.csproj.CoreCompileInputs.cache
+C:\Users\nickb\Desktop\Programming II\RandomAnimals\RandomAnimals\RandomAnimals\obj\Debug\RandomAnimals.exe
+C:\Users\nickb\Desktop\Programming II\RandomAnimals\RandomAnimals\RandomAnimals\obj\Debug\RandomAnimals.pdb
