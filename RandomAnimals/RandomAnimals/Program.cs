@@ -12,7 +12,8 @@ namespace RandomAnimals
         {
             Object[] arrObj = new Object[10];
             Random rand = new Random();
-    
+            Object prev = null;
+
             for (int i = 0; i < 10; i++)
             {
                 switch (rand.Next(0, 3))
@@ -33,34 +34,68 @@ namespace RandomAnimals
             foreach (Object animal in arrObj)
             {
                 Console.WriteLine(animal.ToString());
+                if (animal.Equals(prev) == true)
+                {
+                    Console.WriteLine("You got two in a row!");
+                }
+                prev = animal;
             }
-
-
         }
     }
 
-    class Dog
+    #region Animal
+    abstract class Animal
+    {
+        public override bool Equals(object obj)
+        {
+            if (obj == null)
+            {
+                return false;
+            }
+            else if (obj.ToString() == this.ToString())
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+    }
+    #endregion
+
+    #region Dog : Animal
+    class Dog : Animal
     {
         public override string ToString()
         {
             return "Woof";
         }
     }
+    #endregion
 
-    class Cat
+    #region Cat : Animal
+    class Cat : Animal
     {
         public override string ToString()
         {
             return "Meow";
         }
     }
+    #endregion
 
-    class Bird
+    #region Bird : Animal
+    class Bird : Animal
     {
         public override string ToString()
         {
             return "Tweet";
         }
     }
-
+    #endregion
 }
