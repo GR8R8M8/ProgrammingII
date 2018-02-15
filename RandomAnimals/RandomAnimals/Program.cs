@@ -52,7 +52,7 @@ namespace RandomAnimals
             {
                 return false;
             }
-            else if ((obj.ToString() == this.ToString()) && (this.GetType() == this.GetType()))
+            else if ((obj.ToString() == this.ToString()) && (obj.GetType() == this.GetType()))
             {
                 return true;
             }
