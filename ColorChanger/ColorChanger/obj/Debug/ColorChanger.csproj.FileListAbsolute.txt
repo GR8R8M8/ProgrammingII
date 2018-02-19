@@ -1,0 +1,10 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\ColorChanger\bin\Debug\ColorChanger.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\ColorChanger\bin\Debug\ColorChanger.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\ColorChanger\bin\Debug\ColorChanger.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\ColorChanger\obj\Debug\ColorChanger.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\ColorChanger\obj\Debug\ColorChanger.Form1.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\ColorChanger\obj\Debug\ColorChanger.Properties.Resources.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\ColorChanger\obj\Debug\ColorChanger.csproj.GenerateResource.Cache
+C:\Users\nickb\AppData\Local\Temporary Projects\ColorChanger\obj\Debug\ColorChanger.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\ColorChanger\obj\Debug\ColorChanger.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\ColorChanger\obj\Debug\ColorChanger.pdb
