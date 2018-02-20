@@ -1,0 +1,7 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\ConsoleColorChanger\bin\Debug\ConsoleColorChanger.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\ConsoleColorChanger\bin\Debug\ConsoleColorChanger.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\ConsoleColorChanger\bin\Debug\ConsoleColorChanger.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\ConsoleColorChanger\obj\Debug\ConsoleColorChanger.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\ConsoleColorChanger\obj\Debug\ConsoleColorChanger.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\ConsoleColorChanger\obj\Debug\ConsoleColorChanger.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\ConsoleColorChanger\obj\Debug\ConsoleColorChanger.pdb
