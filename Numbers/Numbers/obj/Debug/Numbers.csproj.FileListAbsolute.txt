@@ -1,0 +1,14 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\Numbers\bin\Debug\Numbers.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\Numbers\bin\Debug\Numbers.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\Numbers\obj\Debug\Numbers.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Numbers\obj\Debug\Numbers.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\Numbers\obj\Debug\Numbers.pdb
+C:\Users\nickb\Desktop\Programming II\Numbers\Numbers\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\nickb\Desktop\Programming II\Numbers\Numbers\Numbers\bin\Debug\Numbers.exe
+C:\Users\nickb\Desktop\Programming II\Numbers\Numbers\Numbers\bin\Debug\Numbers.pdb
+C:\Users\nickb\Desktop\Programming II\Numbers\Numbers\Numbers\obj\Debug\Numbers.csprojResolveAssemblyReference.cache
+C:\Users\nickb\Desktop\Programming II\Numbers\Numbers\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\nickb\Desktop\Programming II\Numbers\Numbers\Numbers\obj\Debug\Numbers.exe
+C:\Users\nickb\Desktop\Programming II\Numbers\Numbers\Numbers\obj\Debug\Numbers.pdb

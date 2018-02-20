@@ -1,0 +1,6 @@
+C:\Users\nickb\Desktop\Programming II\Numbers2\Numbers2\Numbers2\bin\Debug\Numbers2.exe.config
+C:\Users\nickb\Desktop\Programming II\Numbers2\Numbers2\Numbers2\bin\Debug\Numbers2.exe
+C:\Users\nickb\Desktop\Programming II\Numbers2\Numbers2\Numbers2\bin\Debug\Numbers2.pdb
+C:\Users\nickb\Desktop\Programming II\Numbers2\Numbers2\Numbers2\obj\Debug\Numbers2.csproj.CoreCompileInputs.cache
+C:\Users\nickb\Desktop\Programming II\Numbers2\Numbers2\Numbers2\obj\Debug\Numbers2.exe
+C:\Users\nickb\Desktop\Programming II\Numbers2\Numbers2\Numbers2\obj\Debug\Numbers2.pdb
