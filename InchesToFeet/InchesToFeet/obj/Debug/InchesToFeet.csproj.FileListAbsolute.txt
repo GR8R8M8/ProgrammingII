@@ -1,0 +1,14 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\InchesToFeet\bin\Debug\InchesToFeet.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\InchesToFeet\bin\Debug\InchesToFeet.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\InchesToFeet\bin\Debug\InchesToFeet.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\InchesToFeet\obj\Debug\InchesToFeet.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\InchesToFeet\obj\Debug\InchesToFeet.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\InchesToFeet\obj\Debug\InchesToFeet.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\InchesToFeet\obj\Debug\InchesToFeet.pdb
+C:\Users\nickb\Desktop\Programming II\InchesToFeet\InchesToFeet\InchesToFeet\bin\Debug\InchesToFeet.exe.config
+C:\Users\nickb\Desktop\Programming II\InchesToFeet\InchesToFeet\InchesToFeet\bin\Debug\InchesToFeet.exe
+C:\Users\nickb\Desktop\Programming II\InchesToFeet\InchesToFeet\InchesToFeet\bin\Debug\InchesToFeet.pdb
+C:\Users\nickb\Desktop\Programming II\InchesToFeet\InchesToFeet\InchesToFeet\obj\Debug\InchesToFeet.csprojResolveAssemblyReference.cache
+C:\Users\nickb\Desktop\Programming II\InchesToFeet\InchesToFeet\InchesToFeet\obj\Debug\InchesToFeet.csproj.CoreCompileInputs.cache
+C:\Users\nickb\Desktop\Programming II\InchesToFeet\InchesToFeet\InchesToFeet\obj\Debug\InchesToFeet.exe
+C:\Users\nickb\Desktop\Programming II\InchesToFeet\InchesToFeet\InchesToFeet\obj\Debug\InchesToFeet.pdb

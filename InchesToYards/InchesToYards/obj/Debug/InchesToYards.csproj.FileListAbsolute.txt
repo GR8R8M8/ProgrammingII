@@ -1,0 +1,13 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\InchesToYards\bin\Debug\InchesToYards.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\InchesToYards\bin\Debug\InchesToYards.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\InchesToYards\bin\Debug\InchesToYards.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\InchesToYards\obj\Debug\InchesToYards.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\InchesToYards\obj\Debug\InchesToYards.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\InchesToYards\obj\Debug\InchesToYards.pdb
+C:\Users\nickb\Desktop\Programming II\InchesToYards\InchesToYards\InchesToYards\bin\Debug\InchesToYards.exe.config
+C:\Users\nickb\Desktop\Programming II\InchesToYards\InchesToYards\InchesToYards\bin\Debug\InchesToYards.exe
+C:\Users\nickb\Desktop\Programming II\InchesToYards\InchesToYards\InchesToYards\bin\Debug\InchesToYards.pdb
+C:\Users\nickb\Desktop\Programming II\InchesToYards\InchesToYards\InchesToYards\obj\Debug\InchesToYards.csprojResolveAssemblyReference.cache
+C:\Users\nickb\Desktop\Programming II\InchesToYards\InchesToYards\InchesToYards\obj\Debug\InchesToYards.csproj.CoreCompileInputs.cache
+C:\Users\nickb\Desktop\Programming II\InchesToYards\InchesToYards\InchesToYards\obj\Debug\InchesToYards.exe
+C:\Users\nickb\Desktop\Programming II\InchesToYards\InchesToYards\InchesToYards\obj\Debug\InchesToYards.pdb
