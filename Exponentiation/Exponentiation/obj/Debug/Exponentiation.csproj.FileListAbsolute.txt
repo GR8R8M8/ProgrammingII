@@ -1,0 +1,7 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\Exponentiation\bin\Debug\Exponentiation.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\Exponentiation\bin\Debug\Exponentiation.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\Exponentiation\bin\Debug\Exponentiation.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\Exponentiation\obj\Debug\Exponentiation.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Exponentiation\obj\Debug\Exponentiation.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Exponentiation\obj\Debug\Exponentiation.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\Exponentiation\obj\Debug\Exponentiation.pdb

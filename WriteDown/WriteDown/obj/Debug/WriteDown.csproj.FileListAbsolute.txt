@@ -1,0 +1,7 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\WriteDown\bin\Debug\WriteDown.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\WriteDown\bin\Debug\WriteDown.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\WriteDown\bin\Debug\WriteDown.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\WriteDown\obj\Debug\WriteDown.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\WriteDown\obj\Debug\WriteDown.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\WriteDown\obj\Debug\WriteDown.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\WriteDown\obj\Debug\WriteDown.pdb
