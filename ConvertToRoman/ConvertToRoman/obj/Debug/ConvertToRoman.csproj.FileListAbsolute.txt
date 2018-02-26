@@ -1,0 +1,14 @@
+C:\Users\NickPC\AppData\Local\Temporary Projects\ConvertToRoman\bin\Debug\ConvertToRoman.exe.config
+C:\Users\NickPC\AppData\Local\Temporary Projects\ConvertToRoman\bin\Debug\ConvertToRoman.exe
+C:\Users\NickPC\AppData\Local\Temporary Projects\ConvertToRoman\bin\Debug\ConvertToRoman.pdb
+C:\Users\NickPC\AppData\Local\Temporary Projects\ConvertToRoman\obj\Debug\ConvertToRoman.csprojResolveAssemblyReference.cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\ConvertToRoman\obj\Debug\ConvertToRoman.csproj.CoreCompileInputs.cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\ConvertToRoman\obj\Debug\ConvertToRoman.exe
+C:\Users\NickPC\AppData\Local\Temporary Projects\ConvertToRoman\obj\Debug\ConvertToRoman.pdb
+C:\Users\NickPC\Documents\Visual Studio 2017\ConvertToRoman\ConvertToRoman\bin\Debug\ConvertToRoman.exe.config
+C:\Users\NickPC\Documents\Visual Studio 2017\ConvertToRoman\ConvertToRoman\bin\Debug\ConvertToRoman.exe
+C:\Users\NickPC\Documents\Visual Studio 2017\ConvertToRoman\ConvertToRoman\bin\Debug\ConvertToRoman.pdb
+C:\Users\NickPC\Documents\Visual Studio 2017\ConvertToRoman\ConvertToRoman\obj\Debug\ConvertToRoman.csprojResolveAssemblyReference.cache
+C:\Users\NickPC\Documents\Visual Studio 2017\ConvertToRoman\ConvertToRoman\obj\Debug\ConvertToRoman.csproj.CoreCompileInputs.cache
+C:\Users\NickPC\Documents\Visual Studio 2017\ConvertToRoman\ConvertToRoman\obj\Debug\ConvertToRoman.exe
+C:\Users\NickPC\Documents\Visual Studio 2017\ConvertToRoman\ConvertToRoman\obj\Debug\ConvertToRoman.pdb
