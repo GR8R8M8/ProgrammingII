@@ -1,0 +1,10 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\WordPlay\bin\Debug\WordPlay.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\WordPlay\bin\Debug\WordPlay.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\WordPlay\bin\Debug\WordPlay.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\WordPlay\obj\Debug\WordPlay.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\WordPlay\obj\Debug\WordPlay.Form1.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\WordPlay\obj\Debug\WordPlay.Properties.Resources.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\WordPlay\obj\Debug\WordPlay.csproj.GenerateResource.Cache
+C:\Users\nickb\AppData\Local\Temporary Projects\WordPlay\obj\Debug\WordPlay.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\WordPlay\obj\Debug\WordPlay.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\WordPlay\obj\Debug\WordPlay.pdb
