@@ -1,0 +1,11 @@
+C:\Users\NickPC\Desktop\SearchingAndSorting\SearchingAndSorting\bin\Debug\SearchingAndSorting.exe.config
+C:\Users\NickPC\Desktop\SearchingAndSorting\SearchingAndSorting\bin\Debug\SearchingAndSorting.exe
+C:\Users\NickPC\Desktop\SearchingAndSorting\SearchingAndSorting\bin\Debug\SearchingAndSorting.pdb
+C:\Users\NickPC\Desktop\SearchingAndSorting\SearchingAndSorting\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\NickPC\Desktop\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.csprojResolveAssemblyReference.cache
+C:\Users\NickPC\Desktop\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.frmMain.resources
+C:\Users\NickPC\Desktop\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.Properties.Resources.resources
+C:\Users\NickPC\Desktop\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.csproj.GenerateResource.Cache
+C:\Users\NickPC\Desktop\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.csproj.CoreCompileInputs.cache
+C:\Users\NickPC\Desktop\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.exe
+C:\Users\NickPC\Desktop\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.pdb
