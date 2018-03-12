@@ -86,7 +86,7 @@ namespace SearchingAndSorting
         }
         #endregion
 
-        #region StandardSort
+        #region BogoSort
         public static int[] BogoSort(int[] arr)
         {
             List<int> _list = arr.OfType<int>().ToList();
