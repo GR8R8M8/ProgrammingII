@@ -7,12 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace SearchingAndSorting
 {
     public partial class frmMain : Form
     {
-        int[] arr = new int[] {60, 73, 88, 82, 83, 44, 18, 26, 7, 100, 37, 92, 10, 19, 49, 1, 86, 13, 62, 33};
+        int[] arr = new int[] { 39, 10, 57, 1 };
+
+        //int[] arr = new int[] {60, 73, 88, 82, 83, 44, 18, 26, 7, 100, 37, 92, 10, 19, 49, 1, 86, 13, 62, 33};
 
         public frmMain()
         {
@@ -69,37 +72,42 @@ namespace SearchingAndSorting
             }
         }
 
+        private void btnGenerate_Click(object sender, EventArgs e)
+        {
+            string fileName = Directory.GetCurrentDirectory() + "/dataToSort.txt";
+            string[] numbers = new string[1000000];
+            Random gen = new Random();
+
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                numbers[i] = Convert.ToString(gen.Next());
+            }
+            File.WriteAllLines(fileName, numbers);
+        }
+
+        private void btnImport_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog ofd = new OpenFileDialog();
+            ofd.Title = "Import Items";
+            ofd.DefaultExt = "txt";
+
+            if (ofd.ShowDialog() == DialogResult.OK)
+            {
+                string fileName = ofd.FileName;
+                string[] strArr = File.ReadAllLines(fileName);
+                int[] intArr = Array.ConvertAll(strArr, Int32.Parse);
+                Sort(intArr);
+            }
+            else
+            {
+                MessageBox.Show("Nothing could be imported!");
+            }
+
+        }
+
         private void btnSort_Click(object sender, EventArgs e)
         {
-            int[] _arr = (int[])arr.Clone();
-
-            if (radInsertion.Checked == true)
-            {
-                StandardSorts.InsertionSort(_arr);
-            }
-            else if (radSelection.Checked == true)
-            {
-                StandardSorts.SelectionSort(_arr);
-            }
-            else if (radBubble.Checked == true)
-            {
-                StandardSorts.BubbleSort(_arr);
-            }
-            else if (radMerge.Checked == true)
-            {
-                RecursiveSorts.MergeSort(_arr);
-            }
-            else if (radQuick.Checked == true)
-            {
-                RecursiveSorts.QuickSort(_arr);
-            }
-            else if (radBogo.Checked == true)
-            {
-                StandardSorts.BogoSort(_arr);
-            }
-
-            txtOutput.Text = ArrayPrint(_arr);
-
+            Sort(arr);
         }
 
         private void btnOriginal_Click(object sender, EventArgs e)
@@ -108,6 +116,51 @@ namespace SearchingAndSorting
         }
 
         #endregion
+
+        #region Methods
+
+        private void Sort(int[] arr)
+        {
+            int[] _arr = (int[])arr.Clone();
+            try
+            {
+                if (radInsertion.Checked == true)
+                {
+                    StandardSorts.InsertionSort(_arr);
+                }
+                else if (radSelection.Checked == true)
+                {
+                    StandardSorts.SelectionSort(_arr);
+                }
+                else if (radBubble.Checked == true)
+                {
+                    StandardSorts.BubbleSort(_arr);
+                }
+                else if (radMerge.Checked == true)
+                {
+                    RecursiveSorts.MergeSort(_arr);
+                }
+                else if (radQuick.Checked == true)
+                {
+                    RecursiveSorts.QuickSort(_arr);
+                }
+                else if (radBogo.Checked == true)
+                {
+                    StandardSorts.BogoSort(_arr);
+                }
+            }
+            catch (FormatException)
+            {
+                MessageBox.Show("Make sure all your numbers are integers!");
+            }
+            catch
+            {
+                MessageBox.Show("Unhandled exception!");
+            }
+
+
+            txtOutput.Text = ArrayPrint(_arr);
+        }
 
         private static string ArrayPrint(int[] arr)
         {
@@ -125,5 +178,7 @@ namespace SearchingAndSorting
 
             return result;
         }
+
+        #endregion
     }
 }

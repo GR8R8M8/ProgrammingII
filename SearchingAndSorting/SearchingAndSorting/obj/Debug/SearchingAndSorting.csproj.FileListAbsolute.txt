@@ -9,3 +9,14 @@ C:\Users\NickPC\Desktop\SearchingAndSorting\SearchingAndSorting\obj\Debug\Search
 C:\Users\NickPC\Desktop\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.csproj.CoreCompileInputs.cache
 C:\Users\NickPC\Desktop\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.exe
 C:\Users\NickPC\Desktop\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.pdb
+C:\Users\nickb\Desktop\ProgrammingII-master\SearchingAndSorting\SearchingAndSorting\bin\Debug\SearchingAndSorting.exe.config
+C:\Users\nickb\Desktop\ProgrammingII-master\SearchingAndSorting\SearchingAndSorting\bin\Debug\SearchingAndSorting.exe
+C:\Users\nickb\Desktop\ProgrammingII-master\SearchingAndSorting\SearchingAndSorting\bin\Debug\SearchingAndSorting.pdb
+C:\Users\nickb\Desktop\ProgrammingII-master\SearchingAndSorting\SearchingAndSorting\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\nickb\Desktop\ProgrammingII-master\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.csprojResolveAssemblyReference.cache
+C:\Users\nickb\Desktop\ProgrammingII-master\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.frmMain.resources
+C:\Users\nickb\Desktop\ProgrammingII-master\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.Properties.Resources.resources
+C:\Users\nickb\Desktop\ProgrammingII-master\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.csproj.GenerateResource.Cache
+C:\Users\nickb\Desktop\ProgrammingII-master\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.csproj.CoreCompileInputs.cache
+C:\Users\nickb\Desktop\ProgrammingII-master\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.exe
+C:\Users\nickb\Desktop\ProgrammingII-master\SearchingAndSorting\SearchingAndSorting\obj\Debug\SearchingAndSorting.pdb
