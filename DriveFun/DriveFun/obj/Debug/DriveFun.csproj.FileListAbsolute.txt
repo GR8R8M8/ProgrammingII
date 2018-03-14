@@ -1,0 +1,7 @@
+C:\Users\NickPC\AppData\Local\Temporary Projects\DriveFun\bin\Debug\DriveFun.exe.config
+C:\Users\NickPC\AppData\Local\Temporary Projects\DriveFun\bin\Debug\DriveFun.exe
+C:\Users\NickPC\AppData\Local\Temporary Projects\DriveFun\bin\Debug\DriveFun.pdb
+C:\Users\NickPC\AppData\Local\Temporary Projects\DriveFun\obj\Debug\DriveFun.csprojResolveAssemblyReference.cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\DriveFun\obj\Debug\DriveFun.csproj.CoreCompileInputs.cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\DriveFun\obj\Debug\DriveFun.exe
+C:\Users\NickPC\AppData\Local\Temporary Projects\DriveFun\obj\Debug\DriveFun.pdb

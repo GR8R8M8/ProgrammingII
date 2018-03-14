@@ -1,0 +1,7 @@
+C:\Users\NickPC\AppData\Local\Temporary Projects\DirectoryFun\bin\Debug\DirectoryFun.exe.config
+C:\Users\NickPC\AppData\Local\Temporary Projects\DirectoryFun\bin\Debug\DirectoryFun.exe
+C:\Users\NickPC\AppData\Local\Temporary Projects\DirectoryFun\bin\Debug\DirectoryFun.pdb
+C:\Users\NickPC\AppData\Local\Temporary Projects\DirectoryFun\obj\Debug\DirectoryFun.csprojResolveAssemblyReference.cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\DirectoryFun\obj\Debug\DirectoryFun.csproj.CoreCompileInputs.cache
+C:\Users\NickPC\AppData\Local\Temporary Projects\DirectoryFun\obj\Debug\DirectoryFun.exe
+C:\Users\NickPC\AppData\Local\Temporary Projects\DirectoryFun\obj\Debug\DirectoryFun.pdb
