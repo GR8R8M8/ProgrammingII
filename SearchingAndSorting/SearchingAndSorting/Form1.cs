@@ -8,14 +8,14 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+using System.Threading;
 
 namespace SearchingAndSorting
 {
     public partial class frmMain : Form
     {
-        int[] arr = new int[] { 39, 10, 57, 1 };
 
-        //int[] arr = new int[] {60, 73, 88, 82, 83, 44, 18, 26, 7, 100, 37, 92, 10, 19, 49, 1, 86, 13, 62, 33};
+        int[] arr = new int[] {60, 73, 88, 82, 83, 44, 18, 26, 7, 100, 37, 92, 10, 19, 49, 1, 86, 13, 62, 33};
 
         public frmMain()
         {
@@ -23,10 +23,9 @@ namespace SearchingAndSorting
         }
 
         #region UI
-
         private void picClose_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            Environment.Exit(Environment.ExitCode);
         }
 
         private void btnSearch_Click(object sender, EventArgs e)
@@ -87,9 +86,11 @@ namespace SearchingAndSorting
 
         private void btnImport_Click(object sender, EventArgs e)
         {
-            OpenFileDialog ofd = new OpenFileDialog();
-            ofd.Title = "Import Items";
-            ofd.DefaultExt = "txt";
+            OpenFileDialog ofd = new OpenFileDialog
+            {
+                Title = "Import Items",
+                DefaultExt = "txt"
+            };
 
             if (ofd.ShowDialog() == DialogResult.OK)
             {
@@ -102,7 +103,6 @@ namespace SearchingAndSorting
             {
                 MessageBox.Show("Nothing could be imported!");
             }
-
         }
 
         private void btnSort_Click(object sender, EventArgs e)
@@ -147,6 +147,10 @@ namespace SearchingAndSorting
                 else if (radBogo.Checked == true)
                 {
                     StandardSorts.BogoSort(_arr);
+                }
+                else
+                {
+                    MessageBox.Show("Make sure you have a sort type selected!");
                 }
             }
             catch (FormatException)

@@ -128,13 +128,6 @@ namespace SearchingAndSorting
             return arr;
         }
 
-        private static void Swap(int[] arr, int item1, int item2)
-        {
-            int temp = arr[item1];
-            arr[item1] = arr[item2];
-            arr[item1] = temp;
-        }
-
         private static bool IsSorted(int[] arr)
         {
             for (int i = 1; i < arr.Length; i++)
