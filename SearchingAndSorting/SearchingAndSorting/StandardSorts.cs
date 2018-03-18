@@ -9,11 +9,11 @@ using System.Windows.Forms;
 
 namespace SearchingAndSorting
 {
-    public static class StandardSorts
+    public class InsertionSort : Sorts
     {
-        #region InsertionSort
+        public InsertionSort(int[] arr) : base(arr) {}
 
-        public static int[] InsertionSort(int[] arr)
+        public override int[] ArrSort()
         {
             int insertVal;
 
@@ -32,12 +32,13 @@ namespace SearchingAndSorting
 
             return arr;
         }
+    }
 
-        #endregion
+    public class SelectionSort : Sorts
+    {
+        public SelectionSort(int[] arr) : base(arr) { }
 
-        #region SelectionSort
-
-        public static int[] SelectionSort(int[] arr)
+        public override int[] ArrSort()
         {
             int smallestVal;
 
@@ -62,12 +63,13 @@ namespace SearchingAndSorting
 
             return arr;
         }
+    }
 
-        #endregion
+    public class BubbleSort : Sorts
+    {
+        public BubbleSort(int[] arr) : base(arr) { }
 
-        #region BubbleSort
-
-        public static int[] BubbleSort(int[] arr)
+        public override int[] ArrSort()
         {
             for (int i = 0; i < arr.Length; i++)
             {
@@ -91,12 +93,13 @@ namespace SearchingAndSorting
 
             return arr;
         }
+    }
 
-        #endregion
+    public class BogoSort : Sorts
+    {
+        public BogoSort(int[] arr) : base(arr) { }
 
-        #region BogoSort
-
-        public static int[] BogoSort(int[] arr)
+        public override int[] ArrSort()
         {
             int count = 0;
 
@@ -108,17 +111,16 @@ namespace SearchingAndSorting
 
             MessageBox.Show("That took " + count + " tries");
             return arr;
-
         }
 
-        static int[] Shuffle(int[] arr)
+        private int[] Shuffle(int[] arr)
         {
-            int temp;
-            int rnd;
             Random rand = new Random();
 
             for (int i = 0; i < arr.Length; ++i)
             {
+                int temp;
+                int rnd;
                 rnd = rand.Next(arr.Length);
                 temp = arr[i];
                 arr[i] = arr[rnd];
@@ -141,6 +143,5 @@ namespace SearchingAndSorting
             return true;
         }
 
-        #endregion
     }
 }

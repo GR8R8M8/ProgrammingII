@@ -9,15 +9,17 @@ using System.Windows.Forms;
 
 namespace SearchingAndSorting
 {
-    public static class RecursiveSorts
+    public class MergeSort : Sorts
     {
-        #region MergeSort
-        public static long MergeSort(int[] arr)
+        public MergeSort(int[] arr) : base(arr) { }
+
+        public override int[] ArrSort()
         {
-            return MSort(arr, 0, arr.Length - 1);
+            MSort(arr, 0, arr.Length - 1);
+            return arr;
         }
 
-        private static long MSort(int[] arr, int low, int high)
+        private long MSort(int[] arr, int low, int high)
         {
             if (low == high)
             {
@@ -36,7 +38,7 @@ namespace SearchingAndSorting
             }
         }
 
-        private static long Merge(int[] arr, int low, int middle, int high)
+        private long Merge(int[] arr, int low, int middle, int high)
         {
             int[] tmp = new int[(high - low) + 1];
             int tmpIndex = 0;
@@ -89,15 +91,18 @@ namespace SearchingAndSorting
             return inversionCount;
 
         }
-        #endregion
+    }
 
-        #region QuickSort
-        public static int[] QuickSort(int[] arr)
+    public class QuickSort : Sorts
+    {
+        public QuickSort(int[] arr) : base(arr) { }
+
+        public override int[] ArrSort()
         {
             return QSort(arr, 0, arr.Length - 1);
         }
 
-        private static int[] QSort(int[] arr, int left, int right)
+        private int[] QSort(int[] arr, int left, int right)
         {
             int i = left;
             int j = right;
@@ -138,6 +143,5 @@ namespace SearchingAndSorting
             return arr;
 
         }
-        #endregion
     }
 }
