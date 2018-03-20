@@ -1,0 +1,10 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\GetFolderPaths\bin\Debug\GetFolderPaths.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\GetFolderPaths\bin\Debug\GetFolderPaths.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\GetFolderPaths\bin\Debug\GetFolderPaths.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\GetFolderPaths\obj\Debug\GetFolderPaths.Form1.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\GetFolderPaths\obj\Debug\GetFolderPaths.Properties.Resources.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\GetFolderPaths\obj\Debug\GetFolderPaths.csproj.GenerateResource.Cache
+C:\Users\nickb\AppData\Local\Temporary Projects\GetFolderPaths\obj\Debug\GetFolderPaths.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\GetFolderPaths\obj\Debug\GetFolderPaths.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\GetFolderPaths\obj\Debug\GetFolderPaths.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\GetFolderPaths\obj\Debug\GetFolderPaths.csprojResolveAssemblyReference.cache

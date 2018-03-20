@@ -1,0 +1,10 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\ReadEnvironment\bin\Debug\ReadEnvironment.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\ReadEnvironment\bin\Debug\ReadEnvironment.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\ReadEnvironment\bin\Debug\ReadEnvironment.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\ReadEnvironment\obj\Debug\ReadEnvironment.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\ReadEnvironment\obj\Debug\ReadEnvironment.Form1.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\ReadEnvironment\obj\Debug\ReadEnvironment.Properties.Resources.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\ReadEnvironment\obj\Debug\ReadEnvironment.csproj.GenerateResource.Cache
+C:\Users\nickb\AppData\Local\Temporary Projects\ReadEnvironment\obj\Debug\ReadEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\ReadEnvironment\obj\Debug\ReadEnvironment.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\ReadEnvironment\obj\Debug\ReadEnvironment.pdb
