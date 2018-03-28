@@ -1,0 +1,11 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\Museum Manager\bin\Debug\Museum Manager.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\Museum Manager\bin\Debug\Museum Manager.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\Museum Manager\bin\Debug\Museum Manager.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\Museum Manager\obj\Debug\Museum Manager.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Museum Manager\obj\Debug\Museum_Manager.Properties.Resources.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\Museum Manager\obj\Debug\Museum Manager.csproj.GenerateResource.Cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Museum Manager\obj\Debug\Museum Manager.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Museum Manager\obj\Debug\Museum Manager.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\Museum Manager\obj\Debug\Museum Manager.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\Museum Manager\obj\Debug\Museum_Manager.MainForm.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\Museum Manager\obj\Debug\Museum_Manager.Viewer.resources
