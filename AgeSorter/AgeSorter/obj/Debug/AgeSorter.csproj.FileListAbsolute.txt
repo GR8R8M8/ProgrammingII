@@ -1,0 +1,12 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\AgeSorter\bin\Debug\AgeSorter.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\AgeSorter\bin\Debug\AgeSorter.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\AgeSorter\bin\Debug\AgeSorter.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\AgeSorter\obj\Debug\AgeSorter.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\AgeSorter\obj\Debug\AgeSorter.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\AgeSorter\obj\Debug\AgeSorter.pdb
+C:\Users\nickb\Desktop\Programming II\AgeSorter\AgeSorter\bin\Debug\AgeSorter.exe.config
+C:\Users\nickb\Desktop\Programming II\AgeSorter\AgeSorter\bin\Debug\AgeSorter.exe
+C:\Users\nickb\Desktop\Programming II\AgeSorter\AgeSorter\bin\Debug\AgeSorter.pdb
+C:\Users\nickb\Desktop\Programming II\AgeSorter\AgeSorter\obj\Debug\AgeSorter.csproj.CoreCompileInputs.cache
+C:\Users\nickb\Desktop\Programming II\AgeSorter\AgeSorter\obj\Debug\AgeSorter.exe
+C:\Users\nickb\Desktop\Programming II\AgeSorter\AgeSorter\obj\Debug\AgeSorter.pdb
