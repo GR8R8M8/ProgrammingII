@@ -1,0 +1,6 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\AddColors\bin\Debug\AddColors.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\AddColors\bin\Debug\AddColors.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\AddColors\bin\Debug\AddColors.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\AddColors\obj\Debug\AddColors.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\AddColors\obj\Debug\AddColors.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\AddColors\obj\Debug\AddColors.pdb
