@@ -1,0 +1,10 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\RemoveUnlucky\bin\Debug\RemoveUnlucky.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\RemoveUnlucky\bin\Debug\RemoveUnlucky.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\RemoveUnlucky\bin\Debug\RemoveUnlucky.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\RemoveUnlucky\obj\Debug\RemoveUnlucky.Form1.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\RemoveUnlucky\obj\Debug\RemoveUnlucky.Properties.Resources.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\RemoveUnlucky\obj\Debug\RemoveUnlucky.csproj.GenerateResource.Cache
+C:\Users\nickb\AppData\Local\Temporary Projects\RemoveUnlucky\obj\Debug\RemoveUnlucky.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\RemoveUnlucky\obj\Debug\RemoveUnlucky.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\RemoveUnlucky\obj\Debug\RemoveUnlucky.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\RemoveUnlucky\obj\Debug\RemoveUnlucky.csprojResolveAssemblyReference.cache
