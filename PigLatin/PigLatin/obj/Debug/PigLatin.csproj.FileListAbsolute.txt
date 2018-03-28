@@ -1,0 +1,10 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\PigLati\bin\Debug\PigLati.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\PigLati\bin\Debug\PigLati.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\PigLati\bin\Debug\PigLati.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\PigLati\obj\Debug\PigLati.Form1.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\PigLati\obj\Debug\PigLati.Properties.Resources.resources
+C:\Users\nickb\AppData\Local\Temporary Projects\PigLati\obj\Debug\PigLatin.csproj.GenerateResource.Cache
+C:\Users\nickb\AppData\Local\Temporary Projects\PigLati\obj\Debug\PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\PigLati\obj\Debug\PigLati.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\PigLati\obj\Debug\PigLati.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\PigLati\obj\Debug\PigLatin.csprojResolveAssemblyReference.cache
