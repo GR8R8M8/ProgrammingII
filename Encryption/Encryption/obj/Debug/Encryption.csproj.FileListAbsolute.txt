@@ -1,0 +1,6 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\Encryption\bin\Debug\Encryption.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\Encryption\bin\Debug\Encryption.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\Encryption\bin\Debug\Encryption.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Encryption\obj\Debug\Encryption.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\Encryption\obj\Debug\Encryption.pdb
