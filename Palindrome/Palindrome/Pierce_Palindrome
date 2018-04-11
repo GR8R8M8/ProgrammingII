@@ -1,0 +1,83 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Palindrome
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string response = "";
+            int mir = 0;
+            int piv = 0;
+            int nei = 0;
+
+            while (true)
+            {
+                Console.WriteLine("Enter a word or phrase. Enter QQQ to quit.");
+                response = Console.ReadLine();
+
+                if (response == "QQQ")
+                {
+                    break;
+                }
+
+                int ret = Palindrome(response);
+
+                if (ret == 1)
+                {
+                    Console.WriteLine("Mirrored");
+                    mir++;
+                }
+
+                if (ret == 2)
+                {
+                    Console.WriteLine("Pivot");
+                    piv++;
+                }
+
+                if (ret == 3)
+                {
+                    Console.WriteLine("Neither");
+                    nei++;
+                }
+            }
+
+            Console.WriteLine("Mirrored: " + mir);
+            Console.WriteLine("Pivot: " + piv);
+            Console.WriteLine("Neither: " + nei);
+
+        }
+
+        static int Palindrome(string pal)
+        {
+            pal = pal.ToLower().Replace(" ","");
+
+            StringBuilder sb = new StringBuilder();
+            foreach (char c in pal)
+            {
+                if (!Char.IsPunctuation(c))
+                {
+                    sb.Append(c);
+                }
+
+            }
+
+            string rev = new string(sb.ToString().ToCharArray().Reverse().ToArray());
+
+            if (sb.ToString() == rev && sb.ToString().Length % 2 == 0)
+            {
+                return 1;
+            }
+
+            if (sb.ToString() == rev && sb.ToString().Length % 2 > 0)
+            {
+                return 2;
+            }
+
+            return 3;
+        }
+    }
+}
