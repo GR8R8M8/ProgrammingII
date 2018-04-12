@@ -1,0 +1,85 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace Encrypt
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            while (true)
+            {
+                Console.WriteLine("This program will encrypt a phrase with a simple shift. Enter the phrase to encrypt: ");
+                string response = Console.ReadLine();
+
+                if (response == "QQQ")
+                {
+                    break;
+                }
+
+                Console.WriteLine("Now enter the shift: ");
+                int shift = Convert.ToInt16(Console.ReadLine());
+
+                Console.WriteLine("The encrypted phrase is: ");
+                Console.WriteLine(Encryption(response, shift));
+            }
+
+        }
+
+        static string Encryption(string response, int shift)
+        {
+            List<string> output = new List<string>();
+
+            foreach (char c in response)
+            {
+                output.Add(Convert.ToString(c));
+            }
+
+            for (int i = 0; i < output.Count; i++)
+            {
+                string letter = output[i];
+
+                if (char.IsDigit(Convert.ToChar(letter)) == true)
+                {
+
+                    int n = Convert.ToInt16(letter);
+                    int l = 0;
+
+                    if (n + shift > 9)
+                    {
+                        l = (n + shift) - 9;
+                    }
+                    else
+                    {
+                        l = n + shift;
+                    }
+
+                    output[i] = Convert.ToString(l);
+                }
+                else
+                {
+                    char l = Convert.ToChar(letter);
+                    char le = (char)(l + shift);
+                    if (le > 'z' || le > 'Z')
+                    {
+                        le = (char)(le - 26);
+                    }
+                    else if (le < 'a' || le < 'A')
+                    {
+                        le = (char)(le + 26);
+                    }
+                    output[i] = Convert.ToString(le);
+                }
+                
+            }
+
+            string ot = null;
+            foreach(string cr in output)
+            {
+                ot += cr;
+            }
+
+            return (ot);
+        }
