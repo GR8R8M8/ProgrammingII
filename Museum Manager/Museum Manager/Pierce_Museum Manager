@@ -85,7 +85,7 @@ namespace MuseumManager
             {
                 Next.Enabled = true;
                 
-SEPERATE FORM FOR art Method:
+SEPERATE FORM FOR art Class:
 using System;
 using System.Collections.Generic;
 using System.Linq;
