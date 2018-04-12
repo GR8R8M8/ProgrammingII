@@ -1,0 +1,66 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace PigLatin
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btnRun_Click(object sender, EventArgs e)
+        {
+            string txt = txtOutput.Text;
+            List<string> Text = new List<string>(txt.Split());
+            string stuff = null;
+            foreach (string word in Text)
+            {
+                stuff +=(PigConvert(word) + " ");
+            }
+
+            lblOutput.Text = stuff.ToString();
+        }
+
+        public string PigConvert(string word)
+        {
+            string empty = string.Empty;
+            string pigSuffixVowelFirst = "yay";
+            string pigSuffixConstanantsFirst = "ay";
+
+            string vowel = "aeiouAEIOU";
+
+            if (vowel.Contains(word.First()))
+            {
+                empty = word + pigSuffixVowelFirst;
+            }
+            else
+            {
+                int count = 0;
+                string stop = string.Empty;
+                foreach (char c in word)
+                {
+                    if (!vowel.Contains(c))
+                    {
+                        stop += c;
+                        count++;
+                    }
+                    else
+                    {
+                        break;
+                    }
+                }
+
+                empty = word.Substring(count) + stop + pigSuffixConstanantsFirst;
+            }
+            return empty;
+        }
+    }
+}
