@@ -1,3 +1,4 @@
+    
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -65,17 +66,31 @@ namespace Encrypt
                     char le = (char)(l + shift);
                     if (char.IsLower(Convert.ToChar(letter)))
                     {
-                        if (le > 'z') ;
+                        if (le > 'z')
                         {
-                            
+                            le = (char)(le - 26); 
                         }
                     }
                     else if (char.IsUpper(Convert.ToChar(letter)))
                     {
-                        (le > 'Z');
+                        if (le > 'Z')
+                        {
+                            le = (char)(le - 26);
+                        }
                     }
                     output[i] = Convert.ToString(le);
                 }
 
                 
             }
+
+            string ot = null;
+            foreach(string cr in output)
+            {
+                ot += cr;
+            }
+
+            return (ot);
+        }
+    }
+}
