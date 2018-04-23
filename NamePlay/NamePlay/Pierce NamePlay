@@ -1,0 +1,98 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace NamePlay1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Please enter the name: First Middle Last");
+            string name = Console.ReadLine();
+
+            int counterupper = 0;
+            int counterlower = 0;
+
+            string[] split = name.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+
+            #region Upper
+
+            string[] uppernames = new string[3];
+
+            foreach (string n in split)
+            {
+                char one = char.ToUpper(n[0]);
+                string cap = n.Replace(n[0], one);
+                uppernames[counterupper] = cap;
+                counterupper++;
+
+            }
+
+            string FirstName = uppernames[0];
+            string MiddleName = uppernames[1];
+            string LastName = uppernames[2];
+
+            char minitial = MiddleName[0];
+            char finitial = FirstName[0];
+            char linitial = LastName[0];
+
+            #endregion
+
+            #region Lower
+
+            string[] lowernames = new string[3];
+              
+            foreach (string n in split)
+            {
+                char one = char.ToLower(n[0]);
+                string low = n.Replace(n[0], one);
+                lowernames [counterlower] = low;
+                counterlower++;
+            }
+
+            string FirstNameL = lowernames[0];
+            string MiddleNameL = lowernames[1];
+            string LastNameL = lowernames[2];
+
+            char minitialL = MiddleNameL[0];
+            char finitialL = FirstNameL[0];
+            char linitialL = LastNameL[0];
+
+            #endregion
+
+            //Capitalize
+            Console.WriteLine("The name for the name plate is {0} {1} {2}", FirstName, MiddleName,LastName);
+                           
+            //Word Movement
+            Console.WriteLine("The name for the company directory is {0}, {1} {2}.", LastName,FirstName,minitial);
+
+            //Initials
+            Console.WriteLine("The initials for the user id are {0}{1}{2}", finitialL,minitialL,linitialL);
+
+            #region SubString
+
+            string shortfirst = split[2];
+            string shortlast = split[0];
+
+            int firststart = 0;
+            int firstend = Math.Min(5, split[0].Length);
+
+            int laststart = 0;
+            int lastend = Math.Min(2, split[2].Length);
+
+            int firstsplit = split[0].Length -1;
+            int middlesplit = split[1].Length - 1;
+            int lastsplit = split[2].Length - 1;
+
+            String substring1 = shortfirst.Substring(firststart, firstend);
+            String substring2 = shortlast.Substring(laststart, lastend);
+
+            #endregion
+
+            //Email
+            Console.WriteLine("{0}{1}{2}{3}{4}@apexpaper.com",substring1,substring2,firstsplit,middlesplit,lastsplit);
+        }
+    }
+}
