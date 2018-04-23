@@ -1,0 +1,42 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace AgeSorter
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int counter = 0;
+            int counter2 = 0;
+            List<int> ageList = new List<int>();
+        
+            Random gen = new Random();
+
+            for (int i = 0; i < 100; i++)
+            {
+                int add = gen.Next(15, 23);
+                ageList.Add(add);
+            }
+
+            List<int> older = new List<int>(ageList.FindAll(item => item >= 20));
+            List<int> younger = new List<int>(ageList.FindAll(item => item < 20));
+
+            Console.WriteLine("The number of member 20 years and older of age is: {0}", older.Count);
+
+            foreach (int o in older)
+            {
+                Console.Write(o +",");
+            }
+            Console.WriteLine();
+
+            Console.WriteLine("The number of members below 20 years of age is: {0}",younger.Count);
+            foreach (int n in younger)
+            {
+                Console.Write(n +",");
+            }
+        }
+    }
+}
