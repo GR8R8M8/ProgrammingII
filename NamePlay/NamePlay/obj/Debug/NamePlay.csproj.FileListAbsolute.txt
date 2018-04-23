@@ -1,0 +1,7 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\NamePlay\bin\Debug\NamePlay.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\NamePlay\bin\Debug\NamePlay.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\NamePlay\bin\Debug\NamePlay.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\NamePlay\obj\Debug\NamePlay.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\NamePlay\obj\Debug\NamePlay.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\NamePlay\obj\Debug\NamePlay.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\NamePlay\obj\Debug\NamePlay.pdb
