@@ -1,0 +1,36 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace AddColors
+{
+    class Program
+    {
+        
+            
+        static void Main(string[] args)
+        {
+
+            List<string> colorList = new List<string>() { "Blue", "Red", "Black" };
+            List<string> colorList2 = new List<string>() { "Orange", "Yellow", "Purple" };
+
+            Console.WriteLine("colorList 1: ");
+            foreach (string o in colorList)
+            {
+                Console.WriteLine(o);
+            }
+            Console.WriteLine("colorList 2: ");
+            foreach (string p in colorList2)
+            {
+                Console.WriteLine(p);
+            }
+            colorList.AddRange(colorList2);
+            Console.WriteLine("Combined colorList with AddRange: ");
+            foreach (string q in colorList)
+            {
+                Console.WriteLine(q);
+            }
+        }
+    }
+}
