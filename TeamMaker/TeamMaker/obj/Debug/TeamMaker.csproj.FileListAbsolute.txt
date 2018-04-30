@@ -1,0 +1,14 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\TeamMaker\bin\Debug\TeamMaker.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\TeamMaker\bin\Debug\TeamMaker.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\TeamMaker\bin\Debug\TeamMaker.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\TeamMaker\obj\Debug\TeamMaker.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\TeamMaker\obj\Debug\TeamMaker.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\TeamMaker\obj\Debug\TeamMaker.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\TeamMaker\obj\Debug\TeamMaker.pdb
+C:\Users\nickb\Desktop\Programming II\TeamMaker\TeamMaker\bin\Debug\TeamMaker.exe.config
+C:\Users\nickb\Desktop\Programming II\TeamMaker\TeamMaker\bin\Debug\TeamMaker.exe
+C:\Users\nickb\Desktop\Programming II\TeamMaker\TeamMaker\bin\Debug\TeamMaker.pdb
+C:\Users\nickb\Desktop\Programming II\TeamMaker\TeamMaker\obj\Debug\TeamMaker.csprojResolveAssemblyReference.cache
+C:\Users\nickb\Desktop\Programming II\TeamMaker\TeamMaker\obj\Debug\TeamMaker.csproj.CoreCompileInputs.cache
+C:\Users\nickb\Desktop\Programming II\TeamMaker\TeamMaker\obj\Debug\TeamMaker.exe
+C:\Users\nickb\Desktop\Programming II\TeamMaker\TeamMaker\obj\Debug\TeamMaker.pdb

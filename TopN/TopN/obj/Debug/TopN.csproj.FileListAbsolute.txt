@@ -1,0 +1,13 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\TopN\bin\Debug\TopN.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\TopN\bin\Debug\TopN.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\TopN\bin\Debug\TopN.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\TopN\obj\Debug\TopN.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\TopN\obj\Debug\TopN.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\TopN\obj\Debug\TopN.pdb
+C:\Users\nickb\Desktop\Programming II\TopN\TopN\bin\Debug\TopN.exe.config
+C:\Users\nickb\Desktop\Programming II\TopN\TopN\bin\Debug\TopN.exe
+C:\Users\nickb\Desktop\Programming II\TopN\TopN\bin\Debug\TopN.pdb
+C:\Users\nickb\Desktop\Programming II\TopN\TopN\obj\Debug\TopN.csproj.CoreCompileInputs.cache
+C:\Users\nickb\Desktop\Programming II\TopN\TopN\obj\Debug\TopN.exe
+C:\Users\nickb\Desktop\Programming II\TopN\TopN\obj\Debug\TopN.pdb
+C:\Users\nickb\Desktop\Programming II\TopN\TopN\obj\Debug\TopN.csprojResolveAssemblyReference.cache
