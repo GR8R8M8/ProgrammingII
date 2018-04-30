@@ -1,0 +1,16 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\CountIntegers\bin\Debug\Res\testRead.txt
+C:\Users\nickb\AppData\Local\Temporary Projects\CountIntegers\bin\Debug\CountIntegers.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\CountIntegers\bin\Debug\CountIntegers.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\CountIntegers\bin\Debug\CountIntegers.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\CountIntegers\obj\Debug\CountIntegers.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\CountIntegers\obj\Debug\CountIntegers.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\CountIntegers\obj\Debug\CountIntegers.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\CountIntegers\obj\Debug\CountIntegers.pdb
+C:\Users\nickb\Desktop\Programming II\CountIntegers\CountIntegers\bin\Debug\Res\testRead.txt
+C:\Users\nickb\Desktop\Programming II\CountIntegers\CountIntegers\bin\Debug\CountIntegers.exe.config
+C:\Users\nickb\Desktop\Programming II\CountIntegers\CountIntegers\bin\Debug\CountIntegers.exe
+C:\Users\nickb\Desktop\Programming II\CountIntegers\CountIntegers\bin\Debug\CountIntegers.pdb
+C:\Users\nickb\Desktop\Programming II\CountIntegers\CountIntegers\obj\Debug\CountIntegers.csprojResolveAssemblyReference.cache
+C:\Users\nickb\Desktop\Programming II\CountIntegers\CountIntegers\obj\Debug\CountIntegers.csproj.CoreCompileInputs.cache
+C:\Users\nickb\Desktop\Programming II\CountIntegers\CountIntegers\obj\Debug\CountIntegers.exe
+C:\Users\nickb\Desktop\Programming II\CountIntegers\CountIntegers\obj\Debug\CountIntegers.pdb

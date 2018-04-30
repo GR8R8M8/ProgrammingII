@@ -1,0 +1,14 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\IntegerSquares\bin\Debug\IntegerSquares.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\IntegerSquares\bin\Debug\IntegerSquares.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\IntegerSquares\bin\Debug\IntegerSquares.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\IntegerSquares\obj\Debug\IntegerSquares.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\IntegerSquares\obj\Debug\IntegerSquares.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\IntegerSquares\obj\Debug\IntegerSquares.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\IntegerSquares\obj\Debug\IntegerSquares.pdb
+C:\Users\nickb\Desktop\Programming II\IntegerSquares\IntegerSquares\bin\Debug\IntegerSquares.exe.config
+C:\Users\nickb\Desktop\Programming II\IntegerSquares\IntegerSquares\bin\Debug\IntegerSquares.exe
+C:\Users\nickb\Desktop\Programming II\IntegerSquares\IntegerSquares\bin\Debug\IntegerSquares.pdb
+C:\Users\nickb\Desktop\Programming II\IntegerSquares\IntegerSquares\obj\Debug\IntegerSquares.csprojResolveAssemblyReference.cache
+C:\Users\nickb\Desktop\Programming II\IntegerSquares\IntegerSquares\obj\Debug\IntegerSquares.csproj.CoreCompileInputs.cache
+C:\Users\nickb\Desktop\Programming II\IntegerSquares\IntegerSquares\obj\Debug\IntegerSquares.exe
+C:\Users\nickb\Desktop\Programming II\IntegerSquares\IntegerSquares\obj\Debug\IntegerSquares.pdb

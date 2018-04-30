@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountIntegers", "CountIntegers\CountIntegers.csproj", "{BE92849C-065F-44E8-8624-CF508B42C30C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE92849C-065F-44E8-8624-CF508B42C30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE92849C-065F-44E8-8624-CF508B42C30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE92849C-065F-44E8-8624-CF508B42C30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE92849C-065F-44E8-8624-CF508B42C30C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3667D9D-1F84-421B-B93F-2B9A9501AB20}
+	EndGlobalSection
+EndGlobal
