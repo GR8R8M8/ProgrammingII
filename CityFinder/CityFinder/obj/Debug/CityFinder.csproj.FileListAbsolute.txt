@@ -1,0 +1,14 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\CityFinder\bin\Debug\CityFinder.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\CityFinder\bin\Debug\CityFinder.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\CityFinder\bin\Debug\CityFinder.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\CityFinder\obj\Debug\CityFinder.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\CityFinder\obj\Debug\CityFinder.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\CityFinder\obj\Debug\CityFinder.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\CityFinder\obj\Debug\CityFinder.pdb
+C:\Users\nickb\Desktop\Programming II\CityFinder\CityFinder\bin\Debug\CityFinder.exe.config
+C:\Users\nickb\Desktop\Programming II\CityFinder\CityFinder\bin\Debug\CityFinder.exe
+C:\Users\nickb\Desktop\Programming II\CityFinder\CityFinder\bin\Debug\CityFinder.pdb
+C:\Users\nickb\Desktop\Programming II\CityFinder\CityFinder\obj\Debug\CityFinder.csprojResolveAssemblyReference.cache
+C:\Users\nickb\Desktop\Programming II\CityFinder\CityFinder\obj\Debug\CityFinder.csproj.CoreCompileInputs.cache
+C:\Users\nickb\Desktop\Programming II\CityFinder\CityFinder\obj\Debug\CityFinder.exe
+C:\Users\nickb\Desktop\Programming II\CityFinder\CityFinder\obj\Debug\CityFinder.pdb

@@ -1,0 +1,16 @@
+C:\Users\nickb\AppData\Local\Temporary Projects\Gettysburg\bin\Debug\Gettysburg.exe.config
+C:\Users\nickb\AppData\Local\Temporary Projects\Gettysburg\bin\Debug\Gettysburg.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\Gettysburg\bin\Debug\Gettysburg.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\Gettysburg\obj\Debug\Gettysburg.csprojResolveAssemblyReference.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Gettysburg\obj\Debug\Gettysburg.csproj.CoreCompileInputs.cache
+C:\Users\nickb\AppData\Local\Temporary Projects\Gettysburg\obj\Debug\Gettysburg.exe
+C:\Users\nickb\AppData\Local\Temporary Projects\Gettysburg\obj\Debug\Gettysburg.pdb
+C:\Users\nickb\AppData\Local\Temporary Projects\Gettysburg\bin\Debug\Res\Gettysburg.txt
+C:\Users\nickb\Desktop\Programming II\Gettysburg\Gettysburg\bin\Debug\Res\Gettysburg.txt
+C:\Users\nickb\Desktop\Programming II\Gettysburg\Gettysburg\bin\Debug\Gettysburg.exe.config
+C:\Users\nickb\Desktop\Programming II\Gettysburg\Gettysburg\bin\Debug\Gettysburg.exe
+C:\Users\nickb\Desktop\Programming II\Gettysburg\Gettysburg\bin\Debug\Gettysburg.pdb
+C:\Users\nickb\Desktop\Programming II\Gettysburg\Gettysburg\obj\Debug\Gettysburg.csprojResolveAssemblyReference.cache
+C:\Users\nickb\Desktop\Programming II\Gettysburg\Gettysburg\obj\Debug\Gettysburg.csproj.CoreCompileInputs.cache
+C:\Users\nickb\Desktop\Programming II\Gettysburg\Gettysburg\obj\Debug\Gettysburg.exe
+C:\Users\nickb\Desktop\Programming II\Gettysburg\Gettysburg\obj\Debug\Gettysburg.pdb
